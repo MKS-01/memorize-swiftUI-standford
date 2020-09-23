@@ -6,3 +6,4 @@ This repo coveres sample code from lectures.
 
 - Lecture 1 Course Logistics and Intro to SwiftUI
 - Lecture 2 MVVM and the Swift Type System
+- Lecture 3 Reactive UI Protocols Layout
